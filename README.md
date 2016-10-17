@@ -17,12 +17,12 @@ De-Noised Colour Transfer Output
 
 #Usage
 ##Compile
-Please check the Makefile to edit OpenCV library path. This code was tested on OSX.
+Please check the Makefile to edit your OpenCV library path. This code was tested on OSX.
 
-make all
+$ make all
 ##Test
 
-make test
+$ make test
 
 #Copyright
 Enjoy and feel free to use the code for your purposes. But please keep my original copyright statements.
