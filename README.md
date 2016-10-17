@@ -3,15 +3,17 @@ A C++ implementation (based on OpenCV) of an image colour transfer noise deducti
 
 #Examples
 
-Source Image
+J = deNoise(I_s, It) // I_s and I_t are the inputs.
+
+Source Image (I_s)
 
 ![source image](https://github.com/hangong/Colour_Transfer_deNoise/blob/master/org.jpg?raw=true)
 
-Original Bad Colour Transfer Result
+Original Bad Colour Transfer Result (I_t)
 
 ![bad result](https://github.com/hangong/Colour_Transfer_deNoise/blob/master/rendered.jpg?raw=true)
 
-De-Noised Colour Transfer Output
+De-Noised Colour Transfer Output (J)
 
 ![Fixture](https://github.com/hangong/Colour_Transfer_deNoise/blob/master/fixed.jpg?raw=true)
 
