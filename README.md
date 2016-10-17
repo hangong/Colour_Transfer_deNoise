@@ -1,5 +1,5 @@
 # Colour_Transfer_deNoise
-An C++ implementation (based on OpenCV) of an image colour transfer noise deduction algorithm.
+A C++ implementation (based on OpenCV) of an image colour transfer noise deduction algorithm.
 
 #Examples
 
