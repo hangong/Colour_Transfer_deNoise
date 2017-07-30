@@ -1,7 +1,7 @@
 # Colour_Transfer_deNoise
 A C++ implementation (based on OpenCV) of an image colour transfer noise deduction algorithm.
 
-#Examples
+# Examples
 
 J = deNoise(I_s, It) // I_s and I_t are the inputs.
 
@@ -17,20 +17,20 @@ De-Noised Colour Transfer Output (J)
 
 ![Fixture](https://github.com/hangong/Colour_Transfer_deNoise/blob/master/fixed.jpg?raw=true)
 
-#Usage
-##Compile
+# Usage
+## Compile
 Please check the Makefile to edit your OpenCV library path. This code was tested on OSX.
 
 $ make all
-##Test
+## Test
 
 $ make test
 
-#Copyright
+# Copyright
 Enjoy and feel free to use the code for your purposes. But please keep my original copyright statements.
 
 Han Gong <gong@fedorapoject.org> 2016, University of East Anglia
 
-#Reference
+# Reference
  Automated colour grading using colour distribution transfer, 2007
  Section 4, CVIU.
